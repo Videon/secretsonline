@@ -12,5 +12,5 @@ I want to make another game soon. Some recent ideas:
 
 Of the above, the ground is lava is the only one where you read the name and immediately know what gameplay will look like. It might also be the easiest one to implement, and should rely on the least amount of art assets. However, I would also like to have a reactive (i.e., must be connected to gameplay) music component in there. ~~This seems the easiest for the logging game: base music on amount of incoming/sold logs.~~
 
-![[[Screenshot of a basic Unreal 5 scene.](/reflections/Pasted%20image%2020230929124451.png)]]
+![Screenshot of a basic Unreal 5 scene.](/reflections/Pasted%20image%2020230929124451.png)
 The above screenshot shows Unreal’s default scene for the first person template. Instead of focusing on my actual task at hand (like making a game), I often just ended up jumping from platform to platform, trying not to touch the ground. I would also jump on top of the blue cubes which had physics activated, which means they could topple and fall – this should be considered for gameplay.
